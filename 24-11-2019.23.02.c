@@ -15,7 +15,7 @@ int main()
     scanf("%d", &x);
 
     printf("Masukan angka kedua :");
-    scand("%d, &y");
+    scanf("%d", &y);
     //tampilkan pilihan operasi perhitungan
     printf("Pilih operasi perhitungan:\n");
     printf("1. penjumlahan\n");
